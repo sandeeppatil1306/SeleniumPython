@@ -1,0 +1,4 @@
+2024-02-28 19:25:04,443 :INFO : test_logging : Information statement
+2024-02-28 19:25:04,444 :WARNING : test_logging : Something is in warning mode
+2024-02-28 19:25:04,444 :ERROR : test_logging : A major error has happen
+2024-02-28 19:25:04,444 :CRITICAL : test_logging : Critical issue
